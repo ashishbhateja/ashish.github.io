@@ -1,3 +1,3 @@
-# Not a Blog
+# Not a Blog Yet
 
-A site in construction.
+So far, a site under construction
