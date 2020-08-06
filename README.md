@@ -1,2 +1,3 @@
-# ashish.github.io
-General Website
+# Not a Blog
+
+A site in construction.
